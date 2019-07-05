@@ -1,14 +1,3 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [{"id":0,"name":"product 1","sku":"# PKG 000777","price":"1049.90","imgSrc":"https://picsum.photos/id/0/400"},{"id":1,"name":"product 2","sku":"# PKG 000707","price":"1149.90","imgSrc":"https://picsum.photos/id/1/400"},{"id":2,"name":"product 3","sku":"# PKG 000766","price":"1249.90","imgSrc":"https://picsum.photos/id/2/400"},{"id":3,"name":"product 4","sku":"# PKG 000290","price":"1349.90","imgSrc":"https://picsum.photos/id/3/400"},{"id":4,"name":"product 5","sku":"# PKG 000165","price":"1449.90","imgSrc":"https://picsum.photos/id/4/400"},{"id":5,"name":"product 6","sku":"# PKG 000405","price":"1549.90","imgSrc":"https://picsum.photos/id/5/400"},{"id":6,"name":"product 7","sku":"# PKG 000826","price":"1649.90","imgSrc":"https://picsum.photos/id/6/400"},{"id":7,"name":"product 8","sku":"# PKG 000996","price":"1749.90","imgSrc":"https://picsum.photos/id/7/400"},{"id":8,"name":"product 9","sku":"# PKG 000542","price":"1849.90","imgSrc":"https://picsum.photos/id/8/400"},{"id":9,"name":"product 10","sku":"# PKG 000931","price":"1949.90","imgSrc":"https://picsum.photos/id/9/400"},{"id":10,"name":"product 11","sku":"# PKG 000551","price":"11049.90","imgSrc":"https://picsum.photos/id/0/400"},{"id":11,"name":"product 12","sku":"# PKG 000437","price":"11149.90","imgSrc":"https://picsum.photos/id/1/400"},{"id":12,"name":"product 13","sku":"# PKG 000769","price":"11249.90","imgSrc":"https://picsum.photos/id/2/400"},{"id":13,"name":"product 14","sku":"# PKG 000827","price":"11349.90","imgSrc":"https://picsum.photos/id/3/400"},{"id":14,"name":"product 15","sku":"# PKG 000703","price":"11449.90","imgSrc":"https://picsum.photos/id/4/400"},{"id":15,"name":"product 16","sku":"# PKG 000616","price":"11549.90","imgSrc":"https://picsum.photos/id/5/400"},{"id":16,"name":"product 17","sku":"# PKG 000573","price":"11649.90","imgSrc":"https://picsum.photos/id/6/400"},{"id":17,"name":"product 18","sku":"# PKG 000791","price":"11749.90","imgSrc":"https://picsum.photos/id/7/400"},{"id":18,"name":"product 19","sku":"# PKG 000596","price":"11849.90","imgSrc":"https://picsum.photos/id/8/400"},{"id":19,"name":"product 20","sku":"# PKG 000414","price":"11949.90","imgSrc":"https://picsum.photos/id/9/400"}],
 }
