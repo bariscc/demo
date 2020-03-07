@@ -1,51 +1,53 @@
 {
-  "heroTitle": "Dise ña dores",
-  "heroImgSrc": "https://images.unsplash.com/photo-1560096889-d15f4b4a3212?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80",
-  "heroList": [
-    {
-      "title": "Fendi",
-      "key": "fendi"
-    },
-    {
-      "title": "Louis Vuitton",
-      "key": "louis-vuitton"
-    },
-    {
-      "title": "Gucci",
-      "key": "gucci"
-    },
-    {
-      "title": "Givenchy",
-      "key": "givenchy"
-    },
-    {
-      "title": "Burberry",
-      "key": "burberry"
-    },
-    {
-      "title": "Versace",
-      "key": "versace"
-    }
-  ],
-  "heroFooter": "todas las diseñadoras",
-  "categories": [
-    {
-      "title": "Mujer",
-      "key": "mujer",
-      "imgSrc": "https://images.unsplash.com/photo-1508106611376-a03af6c7d979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
-    },
-    {
-      "title": "Hombre",
-      "key": "hombre",
-      "imgSrc": "https://images.unsplash.com/photo-1515144225933-899dcb0ca32e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
-    }
-  ],
-  "departmentsTitle": "Todos departamentos",
-  "departments": [
-    {
-      "title": "Kids",
-      "key": "kids",
-      "imgSrc": "https://images.unsplash.com/photo-1448301566816-a036b4240d58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-    }
-  ]
+  "details": {
+    "heroTitle": "Dise ña dores",
+    "heroImgSrc": "https://images.unsplash.com/photo-1560096889-d15f4b4a3212?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80",
+    "heroList": [
+      {
+        "title": "Fendi",
+        "key": "fendi"
+      },
+      {
+        "title": "Louis Vuitton",
+        "key": "louis-vuitton"
+      },
+      {
+        "title": "Gucci",
+        "key": "gucci"
+      },
+      {
+        "title": "Givenchy",
+        "key": "givenchy"
+      },
+      {
+        "title": "Burberry",
+        "key": "burberry"
+      },
+      {
+        "title": "Versace",
+        "key": "versace"
+      }
+    ],
+    "heroFooter": "todas las diseñadoras",
+    "categories": [
+      {
+        "title": "Mujer",
+        "key": "mujer",
+        "imgSrc": "https://images.unsplash.com/photo-1508106611376-a03af6c7d979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+      },
+      {
+        "title": "Hombre",
+        "key": "hombre",
+        "imgSrc": "https://images.unsplash.com/photo-1515144225933-899dcb0ca32e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+      }
+    ],
+    "departmentsTitle": "Todos departamentos",
+    "departments": [
+      {
+        "title": "Kids",
+        "key": "kids",
+        "imgSrc": "https://images.unsplash.com/photo-1448301566816-a036b4240d58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      }
+    ]
+  }
 }
